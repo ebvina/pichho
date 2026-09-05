@@ -285,7 +285,10 @@ h2, .h2 {
 .price.featured .btn-primary { background: var(--copper); }
 
 .page-hero { padding: 72px 0 20px; }
-.page-hero h1 { max-width: 14ch; }
+.page-hero h1 { max-width: 16rem; }
+@media (min-width: 720px) {
+  .page-hero h1 { max-width: 22ch; }
+}
 .legal { max-width: 760px; }
 .legal h2 { font-size: 1.5rem; margin: 32px 0 10px; }
 .legal p, .legal li { color: var(--muted); margin-bottom: 12px; }
