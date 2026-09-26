@@ -25,7 +25,7 @@
         <div class="nav-inner">
           <a class="brand" href="${root}index.html">
             <img src="${root}assets/logo.svg" alt="Pichho">
-            <div>Pichho<small>Home of Coplanner</small></div>
+            <div>Pichho<small>by Coplanar AI</small></div>
           </a>
           <button class="nav-toggle" id="navToggle" aria-label="Open menu"><span></span><span></span><span></span></button>
           <ul class="nav-links" id="navLinks">${links}</ul>
@@ -42,12 +42,12 @@
               <img src="${root}assets/logo.svg" alt="Pichho">
               <div>Pichho</div>
             </a>
-            <p style="margin-top:14px;max-width:320px;color:#cfc6b8">Pichho is the company. Coplanner is the product — an AI planning workspace for teams that need one living plan.</p>
+            <p style="margin-top:14px;max-width:320px;color:#cfc6b8">Pichho is the product of Coplanar AI Pty Ltd — an AI planning workspace for teams that need one living plan.</p>
           </div>
           <div>
             <h4>Product</h4>
             <ul>
-              <li><a href="${root}product.html">Coplanner</a></li>
+              <li><a href="${root}product.html">Pichho</a></li>
               <li><a href="${root}features.html">Features</a></li>
               <li><a href="${root}solutions.html">Solutions</a></li>
               <li><a href="${root}pricing.html">Pricing</a></li>
@@ -57,7 +57,7 @@
           <div>
             <h4>Company</h4>
             <ul>
-              <li><a href="${root}about.html">About</a></li>
+              <li><a href="${root}about.html">About Coplanar AI</a></li>
               <li><a href="${root}blog.html">Blog</a></li>
               <li><a href="${root}careers.html">Careers</a></li>
               <li><a href="${root}faq.html">FAQ</a></li>
@@ -74,7 +74,7 @@
           </div>
         </div>
         <div class="container copy">
-          <span>© 2026 Pichho. Coplanner is a product of Pichho.</span>
+          <span>© 2026 Coplanar AI Pty Ltd. Pichho is a product of Coplanar AI.</span>
           <span>Melbourne, Australia · hello@pichho.com</span>
         </div>
       </footer>`;

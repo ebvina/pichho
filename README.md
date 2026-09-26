@@ -1,9 +1,9 @@
 # Pichho
 
-Public website for **Pichho**, the software company behind **Coplanner**.
+Public website for **Pichho**, the product of **Coplanar AI Pty Ltd**.
 
-- Company: Pichho
-- Product: Coplanner
+- Company: Coplanar AI Pty Ltd
+- Product: Pichho
 - Site: https://pichho.com
 
 Static HTML, CSS, and JavaScript. No build step.
@@ -18,4 +18,4 @@ Open http://localhost:8000
 
 ## GitHub Pages
 
-Push to `main`. The workflow publishes to `gh-pages` with the custom domain `pichho.com`.
+Push to `main`. GitHub Pages serves the site at `pichho.com`.
